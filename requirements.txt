@@ -1,0 +1,9 @@
+fastapi
+dotenv
+pymupdf
+spacy
+uvicorn
+python-multipart
+beautifulsoup4
+openpyxl
+fpdf

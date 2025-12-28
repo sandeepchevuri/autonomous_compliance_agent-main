@@ -1,0 +1,40 @@
+{
+  "obligations": [
+    "Compliance Obligations \n3.1 Performance Reporting Requirements \nAll developers must submit a QPR no later than the 15th calendar day following the end of each quarter.",
+    "QPR must include: \n- Site-wise energy generation (in kWh) \n- Grid availability and fault time (in hours) \n- Maintenance logs (digital, timestamped) \n- Smart meter data export summary (CSV/XML) \n- Developer sign-off with compliance officer details \n \n3.2 Metering Requirements \nAll installations exceeding 25kW shall install GERB-certified smart meters by June 30, 2025.",
+    "- Calibration reports must be uploaded monthly to the MNRE portal.",
+    "Submission Portal & Contact \n- All reports must be uploaded via: https://mnre.gov.in/qpr-submission \n- File formats supported: .pdf, .xml, .csv \n- Contact for queries: compliance@mnre.gov.in \n \n7."
+  ],
+  "penalties": [
+    "Penalties for Non-Compliance \n \nViolation                                 | Penalty Description \n------------------------------------------|---------------------------------------------------------- \nLate QPR submission (per project)        | \u000010,000 per month of delay \nMissing QPR for a full quarter           | Suspension of subsidy disbursement for next cycle \nNo smart meter installed after deadline  | \u000025,000 penalty + regulatory default notice \nRepeated non-compliance (2+ quarters)",
+    "| Permanent removal from the incentive eligibility list \n \nAll penalties are cumulative and non-negotiable unless officially waived by GERB in writing."
+  ],
+  "entities": [
+    "Non-Compliance \n \nViolation",
+    "Submission Portal & Contact",
+    "Penalty Description",
+    "Green Energy Regulatory Board",
+    "Timeline & Transition \n- April 1, 2025:",
+    "Scope & Applicability",
+    "Ministry of New and Renewable Energy",
+    "GERB",
+    "the National Solar Rooftop Mission (Phase 3"
+  ],
+  "dates": [
+    "2023",
+    "30, 2025",
+    "2+ quarters",
+    "June 30, 2025",
+    "monthly",
+    "this date",
+    "2022",
+    "between January 1, 2024",
+    "December\n31, 2026",
+    "April 1, 2025 \n \n1",
+    "the end of each quarter",
+    "a full quarter"
+  ],
+  "source": "internal_policy",
+  "compliance_type": "internal",
+  "filename": "MNRE_Solar_Incentive_Guidelines_2025.pdf"
+}
